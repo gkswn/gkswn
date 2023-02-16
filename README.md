@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hanju%20Ahn&fontSize=90)
+
+### Hello World!
+
+
+<a href="https://velog.io/@gkswn" rel="nofollow"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic-square&logo=Velog&logoColor=white"/></a></a>
+
+
+<h3>🛠사용언어</h3>
+
 
 <!--
 **gkswn/gkswn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
