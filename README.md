@@ -6,7 +6,7 @@
 <a href="https://velog.io/@gkswn" rel="nofollow"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic-square&logo=Velog&logoColor=white"/></a></a>
 
 
-<h3>🛠사용언어</h3>
+**<h3>🛠사용언어</h3>**
 
 
 <!--
